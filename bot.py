@@ -1,7 +1,7 @@
 import re
 import random
 
-import requests
+
 from lxml import html
 from telegram.ext import Updater, CommandHandler
 
